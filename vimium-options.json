@@ -1,0 +1,17 @@
+{
+  "exclusionRules": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "keyMappings": "# Insert your preferred key mappings here.\nmap q previousTab\nmap w nextTab\nunmap /\nmap e scrollPageUp\nmap A goBack\nmap S goForward\nmap { previousTab\nmap } nextTab\nmap : goBack\nmap \" goForward\nmap a scrollUp\nmap s scrollDown",
+  "linkHintCharacters": "qwerasdfzxcv",
+  "newTabDestination": "browserNewTabPage",
+  "openVomnibarOnNewTabPage": false,
+  "scrollStepSize": 150,
+  "settingsVersion": "2.4.0"
+}
